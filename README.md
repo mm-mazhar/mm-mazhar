@@ -31,7 +31,7 @@
 
 <table style="width:100%" align="center">
  <tr>
-   <td><img src="https://i.imgur.com/G7zmWLD.png" width="300px" height=100px/></td>
+   <td><img src="https://i.imgur.com/GJphmDi.jpg" width="300px" height=100px/></td>
  </tr>
 </table>
 
