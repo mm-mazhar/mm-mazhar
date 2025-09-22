@@ -25,6 +25,16 @@
 <hr>
 
 ## AI
+[Fine Tune Gemma ](https://github.com/mm-mazhar/FineTuneGemma)) Fine-tuning Vision-Language Models (VLMs) like Google’s Gemma is one of the most exciting frontiers in AI. The ability to teach a model to see and describe the world according to a specific task is incredibly powerful. But as anyone who has tried knows, the journey from a raw dataset to a trained model is fraught with peril: massive datasets, out-of-memory errors, and tangled notebook code.
+
+<p>This project aims to simplify the fine-tuning process by providing a streamlined, end-to-end pipeline that takes you from data preparation to fine tuning.</p>
+
+<table style="width:100%" align="center">
+ <tr>
+   <td><img src="[https://i.imgur.com/VHbFx6C.png](https://imgur.com/a/G7zmWLD)" width="300px" height=100px/></td>
+ </tr>
+</table>
+
 
 * [Hybrid RAG | WEBSITE CRAWLER](https://github.com/mm-mazhar/hybrid_rag) Streamlit-based application that enables you to ask questions about documents and receive answers based on the content of those documents. It uses a Hybrid Retrieval-Augmented Generation (RAG) approach to find relevant information within the document and generate accurate, context-aware responses.
 
