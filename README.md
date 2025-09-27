@@ -29,11 +29,13 @@
 
 <p>This project aims to simplify the fine-tuning process by providing a streamlined, end-to-end pipeline that takes you from data preparation to fine tuning.</p>
 
+<div align="center">
 <p>
-												&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 1</span></a>
-												&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-lora-and-qlora-explained-part-2-0127ae6144b5" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 2</span></a>
-												&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-part-3-5c7f9182f1ee" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 3</span></a>
+&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 1</span></a>
+&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-lora-and-qlora-explained-part-2-0127ae6144b5" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 2</span></a>
+&nbsp; <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-part-3-5c7f9182f1ee" target="_blank" class="icon brands fa-medium fa-2x"><span class="label">Medium Article 3</span></a>
 </p>
+</div>
 
 <table style="width:100%" align="center">
  <tr>
