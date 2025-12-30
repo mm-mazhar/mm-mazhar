@@ -77,15 +77,17 @@
 <p>Traditional regression models often fail to capture the distinct etiology of cognitive decline across different socioeconomic and health profiles. Instead of a "one-size-fits-all" approach, this project implements a Hybrid Machine Learning System that:<p>
 
 #### 1. Discovers Phenotypes: Uses Unsupervised Learning (K-Means) to identify distinct patient personas (e.g., "The Frail", "The Ultra-Wealthy", "The Professionals").
-#### 2. Adaptive Modeling: Routes patients to specific predictive models optimized for their phenotype.
-#### 3.Explainability: Uses SHAP to validate the distinct biological and socioeconomic drivers for each group.
 
-* . The Dataset is taken from the official DRIVENDATA Website: (https://www.drivendata.org/)
+#### 2. Adaptive Modeling: Routes patients to specific predictive models optimized for their phenotype.
+
+#### 3. Explainability: Uses SHAP to validate the distinct biological and socioeconomic drivers for each group.
+
+**The Dataset is taken from the official DRIVENDATA Website: (https://www.drivendata.org/)**
 
 <table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/WU9SKMd.png" width="200px" height=100px/></td>
-    <td><img src=https://i.imgur.com/SDnNn1W.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/SDnNn1W.png" width="200px" height=100px/></td>
     <td><img src="https://i.imgur.com/Ze3ggrh.png" width="200px" height=100px/></td>
   </tr>
 </table>
