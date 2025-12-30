@@ -72,7 +72,7 @@
 
 ### :palm_tree: [Cognitive Health Prediction: A Hybrid Unsupervised & Supervised Learning System For Alzheimer's Disease](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer)
  
-* This research project aims to predict Cognitive Health Scores (composite_score) in an aging population.
+**This research project aims to predict Cognitive Health Scores (composite_score) in an aging population.**
 
 <p>Traditional regression models often fail to capture the distinct etiology of cognitive decline across different socioeconomic and health profiles. Instead of a "one-size-fits-all" approach, this project implements a Hybrid Machine Learning System that:<p>
 
