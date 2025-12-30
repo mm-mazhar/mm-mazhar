@@ -85,6 +85,8 @@
 <table style="width:100%" align="center">
   <tr>
     <td><img src="https://i.imgur.com/WU9SKMd.png" width="200px" height=100px/></td>
+    <td><img src=https://i.imgur.com/SDnNn1W.png" width="200px" height=100px/></td>
+    <td><img src="https://i.imgur.com/Ze3ggrh.png" width="200px" height=100px/></td>
   </tr>
 </table>
 
