@@ -70,16 +70,15 @@
 
 ## Machine Learning
 
-### :palm_tree: Cognitive Health Prediction: A Hybrid Unsupervised & Supervised Learning System For Alzheimer's Disease
+### :palm_tree: [Cognitive Health Prediction: A Hybrid Unsupervised & Supervised Learning System For Alzheimer's Disease](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer)
  
-* [Cognitive Health Prediction: A Hybrid Unsupervised & Supervised Learning System For Alzheimer's Disease](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer))
 * This research project aims to predict Cognitive Health Scores (composite_score) in an aging population.
 
-Traditional regression models often fail to capture the distinct etiology of cognitive decline across different socioeconomic and health profiles. Instead of a "one-size-fits-all" approach, this project implements a Hybrid Machine Learning System that:
+<p>Traditional regression models often fail to capture the distinct etiology of cognitive decline across different socioeconomic and health profiles. Instead of a "one-size-fits-all" approach, this project implements a Hybrid Machine Learning System that:<p>
 
-Discovers Phenotypes: Uses Unsupervised Learning (K-Means) to identify distinct patient personas (e.g., "The Frail", "The Ultra-Wealthy", "The Professionals").
-Adaptive Modeling: Routes patients to specific predictive models optimized for their phenotype.
-Explainability: Uses SHAP to validate the distinct biological and socioeconomic drivers for each group.
+#### 1. Discovers Phenotypes: Uses Unsupervised Learning (K-Means) to identify distinct patient personas (e.g., "The Frail", "The Ultra-Wealthy", "The Professionals").
+#### 2. Adaptive Modeling: Routes patients to specific predictive models optimized for their phenotype.
+#### 3.Explainability: Uses SHAP to validate the distinct biological and socioeconomic drivers for each group.
 
 * . The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
