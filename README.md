@@ -7,12 +7,6 @@
 
 ---
 
-### 📌 Current Focus & Learning
-* 🌱 **Currently learning:** Cloud Computing & Amazon SageMaker
-* 🤼 **Looking to collaborate on:** Machine Learning & Generative AI projects
-
----
-
 ### 💡 Core Capabilities & Technical Expertise
 
 #### 🔹 LLMs & Orchestration
