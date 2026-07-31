@@ -26,16 +26,6 @@ Validating technical feasibility and deploying scalable AI workloads on **AWS, G
 
 ---
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<!-- <a href="https://twitter.com/m_mazhar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a> -->
-<a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a>
-<!--  <br> -->
-<a href="mailto:email.mazhar.01@gmail.com" target="_blank" rel="noopener noreferrer" width="60" height="60">@</a>
-<!--  <br> -->
-<a href="https://mm-mazhar.github.io/mmazhar.github.io/" target="_blank" rel="noopener noreferrer" width="60" height="60">Portfolio</a>
-</p>
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
  
@@ -61,6 +51,15 @@ Validating technical feasibility and deploying scalable AI workloads on **AWS, G
 
 <hr>
 
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<!-- <a href="https://twitter.com/m_mazhar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazqoty01" width="30" height="30" /></a> -->
+<a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a>
+<!--  <br> -->
+<a href="mailto:email.mazhar.01@gmail.com" target="_blank" rel="noopener noreferrer" width="60" height="60">@</a>
+<!--  <br> -->
+<a href="https://mm-mazhar.github.io/mmazhar.github.io/" target="_blank" rel="noopener noreferrer" width="60" height="60">Portfolio</a>
+</p>
 ### AI | Machine Learning | Deep Learning | Data Science 
 
 <hr>
