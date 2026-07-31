@@ -60,9 +60,9 @@ Validating technical feasibility and deploying scalable AI workloads on **AWS, G
 <!--  <br> -->
 <a href="https://mm-mazhar.github.io/mmazhar.github.io/" target="_blank" rel="noopener noreferrer" width="60" height="60">Portfolio</a>
 </p>
-### AI | Machine Learning | Deep Learning | Data Science 
-
 <hr>
+
+### AI | Machine Learning | Deep Learning | Data Science 
 
 ## AI
 
