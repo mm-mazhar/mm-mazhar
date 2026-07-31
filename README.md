@@ -9,7 +9,9 @@
 
 ### 💡 Core Capabilities & Technical Expertise
 
-#### 🔹 LLMs & Orchestration
+-----------------------------
+#### 🔹 LLMs & Orchestration |
+-----------------------------
 Building automation applications using Large Language Models (**GPT models, Llama, Claude**) with orchestration frameworks like **LangChain** and **LlamaIndex**.
 
 #### 🔹 RAG & Vector Search
