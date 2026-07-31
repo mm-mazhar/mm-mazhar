@@ -26,13 +26,11 @@
 
 ## AI
 
-* [PaddleOCR + PDF Plumber + Google Gemini + OpenRouter + MongoDB Atlas | End-to-End Generative AI Supply Chain Document Processing Application]([https://github.com/mm-mazhar/FineTuneGemma](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)) This is an end-to-end Generative AI project focused on supply chain document processing. The application ingests unstructured documents — PDFs and scanned images — and converts them into clean, structured data stored in MongoDB Atlas.
-  Originally, developed for a client with `Azure Document Intelligence` and `Azure OpenAI`, but for demo purpose switche to `PaddleOCR` and `PDF Plumber` and some parts are omitted.
+* [PaddleOCR + PDF Plumber + Google Gemini + OpenRouter + MongoDB Atlas | End-to-End Generative AI Supply Chain Document Processing Application](https://github.com/mm-mazhar/SupplyChainDocProcessingApp). This is an end-to-end Generative AI project focused on supply chain document processing. The application ingests unstructured documents — PDFs and scanned images — and converts them into clean, structured data stored in MongoDB Atlas. Originally, developed for a client with `Azure Document Intelligence` and `Azure OpenAI`, but for demo purpose switche to `PaddleOCR` and `PDF Plumber` and some parts are omitted.
 
 <table style="width:100%" align="center">
  <tr>
    <td><a href="https://postimg.cc/qhkcLmgd" target="_blank"><img src="https://i.postimg.cc/qhkcLmgd/sys-arch-01.jpg width="300px" height=100px" alt="sys-arch-01"></a></td>
-   <td><img src="https://i.imgur.com/GJphmDi.jpg" width="300px" height=100px/></td>
  </tr>
 </table>
 
