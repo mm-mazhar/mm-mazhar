@@ -1,8 +1,38 @@
 <h1 style="color:blue;"align="center">M. Mazhar<h3><i>AI/Machine Learning Engineer<i><h3></h1>
 
-- 🌱 I’m currently also learning **Cloud Computing Amazon SageMaker**
+# Hi there, I'm M. Mazhar 👋
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+### 🚀 AI / Machine Learning Engineer
+
+> **Bridging Business Strategy & Technical Precision**  
+> Holds an **MBA** and a **B.S. in Electronics Engineering**. I specialize in building, optimizing, and scaling Generative AI applications, Retrieval-Augmented Generation (RAG) pipelines, and MLOps architectures that transform complex data into measurable business impact.
+
+---
+
+### 📌 Current Focus & Learning
+* 🌱 **Currently learning:** Cloud Computing & Amazon SageMaker
+* 🤼 **Looking to collaborate on:** Machine Learning & Generative AI projects
+
+---
+
+### 💡 Core Capabilities & Technical Expertise
+
+#### 🔹 LLMs & Orchestration
+Building automation applications using Large Language Models (**GPT models, Llama, Claude**) with orchestration frameworks like **LangChain** and **LlamaIndex**.
+
+#### 🔹 RAG & Vector Search
+Designing robust **Retrieval-Augmented Generation (RAG)** pipelines, model fine-tuning, and integrating vector databases (**Pinecone, Milvus, Chroma, Weaviate**).
+
+#### 🔹 MLOps & Lifecycle Management
+Tracking experiments, managing model registries, and streamlining end-to-end ML lifecycles using **MLflow**.
+
+#### 🔹 Containerization & API Development
+Writing clean, maintainable Python code, building RESTful microservices with **FastAPI** and **Flask**, and containerizing runtime environments using **Docker**.
+
+#### 🔹 Cloud & Solution Architecture
+Validating technical feasibility and deploying scalable AI workloads on **AWS, GCP, and Azure**—balancing budget constraints, latency, and technical complexity.
+
+---
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
