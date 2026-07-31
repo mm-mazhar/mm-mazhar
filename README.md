@@ -66,7 +66,7 @@ Validating technical feasibility and deploying scalable AI workloads on **AWS, G
 
 ### 📩 Let's Connect!
 Open to opportunities in **AI / Machine Learning Engineering** and **Data Analytics**.
-- 💼 <a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a> [@M. Mazhar](https://www.linkedin.com/in/mm-mazhar/)
+- <a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a> [@M. Mazhar](https://www.linkedin.com/in/mm-mazhar/)
 - 🌐 **Portfolio:** [mm-mazhar.github.io](https://mm-mazhar.github.io/mmazhar.github.io/)
 - 📧 **Email:** <a href="mailto:email.mazhar.01@gmail.com" target="_blank" rel="noopener noreferrer" width="60" height="60">email me @</a>
 
