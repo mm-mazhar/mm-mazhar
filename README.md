@@ -27,8 +27,7 @@
 ## AI
 
 * [PaddleOCR + PDF Plumber + Google Gemini + OpenRouter + MongoDB Atlas | End-to-End Generative AI Supply Chain Document Processing Application]([https://github.com/mm-mazhar/FineTuneGemma](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)) This is an end-to-end Generative AI project focused on supply chain document processing. The application ingests unstructured documents — PDFs and scanned images — and converts them into clean, structured data stored in MongoDB Atlas.
-
-Originally, developed for a client with `Azure Document Intelligence` and `Azure OpenAI`, but for demo purpose switche to `PaddleOCR` and `PDF Plumber` and some parts are omitted.
+  Originally, developed for a client with `Azure Document Intelligence` and `Azure OpenAI`, but for demo purpose switche to `PaddleOCR` and `PDF Plumber` and some parts are omitted.
 
 <table style="width:100%" align="center">
  <tr>
@@ -37,9 +36,7 @@ Originally, developed for a client with `Azure Document Intelligence` and `Azure
  </tr>
 </table>
 
-* [Fine Tune Gemma ](https://github.com/mm-mazhar/FineTuneGemma) Fine-tuning Vision-Language Models (VLMs) like Google’s Gemma is one of the most exciting frontiers in AI. The ability to teach a model to see and describe the world according to a specific task is incredibly powerful. But as anyone who has tried knows, the journey from a raw dataset to a trained model is fraught with peril: massive datasets, out-of-memory errors, and tangled notebook code.
-
- <p>This project aims to simplify the fine-tuning process by providing a streamlined, end-to-end pipeline that takes you from data preparation to fine tuning.</p>
+* [Fine Tune Gemma ](https://github.com/mm-mazhar/FineTuneGemma) Fine-tuning Vision-Language Models (VLMs) like Google’s Gemma is one of the most exciting frontiers in AI. The ability to teach a model to see and describe the world according to a specific task is incredibly powerful. But as anyone who has tried knows, the journey from a raw dataset to a trained model is fraught with peril: massive datasets, out-of-memory errors, and tangled notebook code. This project aims to simplify the fine-tuning process by providing a streamlined, end-to-end pipeline that takes you from data preparation to fine tuning.
 
 <div align="center">
 <p>
