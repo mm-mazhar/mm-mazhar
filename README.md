@@ -59,7 +59,6 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 <hr>
 
-
 ### AI | Machine Learning | Deep Learning | Data Science 
 
 <hr>
