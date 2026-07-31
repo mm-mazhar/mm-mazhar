@@ -1,5 +1,3 @@
-<h1 style="color:blue;"align="center">M. Mazhar<h3><i>AI/Machine Learning Engineer<i><h3></h1>
-
 # Hi there, I'm M. Mazhar 👋
 
 ### 🚀 AI / Machine Learning Engineer
