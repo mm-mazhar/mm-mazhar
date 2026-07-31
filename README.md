@@ -62,6 +62,8 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 ### AI | Machine Learning | Deep Learning | Data Science 
 
+<hr>
+
 ## AI
 
 * [PaddleOCR + PDF Plumber + Google Gemini + OpenRouter + MongoDB Atlas | End-to-End Generative AI Supply Chain Document Processing Application](https://github.com/mm-mazhar/SupplyChainDocProcessingApp). This is an end-to-end Generative AI project focused on supply chain document processing. The application ingests unstructured documents — PDFs and scanned images — and converts them into clean, structured data stored in MongoDB Atlas. Originally, developed for a client with `Azure Document Intelligence` and `Azure OpenAI`, but for demo purpose switche to `PaddleOCR` and `PDF Plumber` and some parts are omitted.
