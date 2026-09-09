@@ -62,70 +62,59 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 ## 🤖 Generative AI & LLMs
 
 * **[End-to-End Supply Chain Document Processing](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)**  
-  Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter.  
-  🔗 [GitHub](https://github.com/mm-mazhar/SupplyChainDocProcessingApp) | [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
+  Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
 
 * **[AutoVinScout App Demo](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
-  Computer vision and AI-powered tool for automated vehicle identification and VIN recognition/decoding workflows.  
-  🔗 [GitHub](https://github.com/mm-mazhar/AutoVinScout-AppDemo)
+  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.
 
 * **[Hybrid RAG & Document Intelligence](https://github.com/mm-mazhar/hybridRAG)**  
-  Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.  
-  🔗 [GitHub](https://github.com/mm-mazhar/hybridRAG)
+  Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.
 
 * **[Fine-Tuning Gemma (VLM Pipeline)](https://github.com/mm-mazhar/FineTuneGemma)**  
-  Streamlined end-to-end pipeline for fine-tuning Google's Gemma Vision-Language Models with PEFT, LoRA, and QLoRA.  
-  🔗 [GitHub](https://github.com/mm-mazhar/FineTuneGemma) | [Medium Series](https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18)
+  Streamlined end-to-end pipeline for fine-tuning Google's Gemma Vision-Language Models with PEFT, LoRA, and QLoRA. • [Medium Series](https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18)
 
 * **[Abstract Summarizer](https://github.com/mm-mazhar/abstract_summarizer)**  
-  Interactive text summarization tool powered by Hugging Face's `google/pegasus-xsum` model and Streamlit.  
-  🔗 [GitHub](https://github.com/mm-mazhar/abstract_summarizer)
+  Interactive text summarization tool powered by Hugging Face's `google/pegasus-xsum` model and Streamlit.
 
 * **[Text to Speech (TTS) Pipeline](https://github.com/mm-mazhar/text_to_speech/tree/main)**  
-  Batch audio generation pipeline converting tabular/Excel text data into speech using Coqui TTS.  
-  🔗 [GitHub](https://github.com/mm-mazhar/text_to_speech/tree/main)
+  Batch audio generation pipeline converting tabular/Excel text data into speech using Coqui TTS.
 
 ---
 
 ## 📈 Machine Learning
 
 * **[Cognitive Health Prediction for Alzheimer's Disease](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer)**  
-  Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.  
-  🔗 [GitHub](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer)
+  Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.
 
 * **[Soil Nutrient Prediction (Omdena × IPAGE)](https://github.com/mm-mazhar/IPAGE)**  
-  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture. Includes MLflow tracking, FastAPI backend, and Streamlit frontend.  
-  🔗 [GitHub](https://github.com/mm-mazhar/IPAGE) | [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/)
+  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/)
 
 * **[3D Roof Reconstruction for Solar PV (Omdena × IECO)](https://github.com/mm-mazhar/IECO)**  
-  PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations.  
-  🔗 [GitHub](https://github.com/mm-mazhar/IECO) | [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
+  PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
 
 * **[Urban Agriculture Area Identification (Milan, Italy)](https://github.com/maria-fisher/Urban-Agriculture-in-Milan)**  
-  Google Earth Engine (GEE) satellite data processing, Kriging spatial interpolation, and unsupervised clustering to find optimal urban farming zones.  
-  🔗 [GitHub](https://github.com/maria-fisher/Urban-Agriculture-in-Milan) | [Kaggle Dataset](https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data)
+  Google Earth Engine (GEE) satellite data processing, Kriging spatial interpolation, and unsupervised clustering to find optimal urban farming zones. • [Kaggle Dataset](https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data)
 
 * **[End-to-End ML Pipeline & Deployment](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)**  
-  Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment.  
-  🔗 [GitHub](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render) | [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [API Demo](https://deploying-ml-lasso-regression-model.onrender.com)
+  Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [Live API](https://deploying-ml-lasso-regression-model.onrender.com)
 
 ---
 
 ## 👁️ Deep Learning & Computer Vision
 
-* **[Malaria Cell Detection](https://github.com/mazqoty/malaria_detection)**: CNN image classifier detecting infected vs. uninfected blood smear cells. ([GitHub](https://github.com/mazqoty/malaria_detection))
-* **[Automatic Number Plate Recognition (ANPR)](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR)**: Real-time license plate detection and OCR using YOLO / TensorFlow and EasyOCR. ([GitHub](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR))
-* **[Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection)**: CNN/ResMLP-based system classifying correct, incorrect, or absent mask-wearing in real time. ([GitHub](https://github.com/mazqoty/Face-Mask-Detection))
-* **[Road Sign Detection (YOLOv5)](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Road-Sign-Detection)**: Streamlit application running YOLOv5 on live feeds and video for traffic sign recognition. ([GitHub](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Road-Sign-Detection))
-* **[CIFAR-100 Classification](https://github.com/mazqoty/CNN_CIFAR100)**: Deep Convolutional Neural Network trained for 100-class fine-grained object recognition. ([GitHub](https://github.com/mazqoty/CNN_CIFAR100))
+* **[Malaria Cell Detection](https://github.com/mazqoty/malaria_detection)**: CNN image classifier detecting infected vs. uninfected blood smear cells.
+* **[Automatic Number Plate Recognition (ANPR)](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR)**: Real-time license plate detection and OCR using YOLO / TensorFlow and EasyOCR.
+* **[Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection)**: CNN/ResMLP-based system classifying correct, incorrect, or absent mask-wearing in real time.
+* **[Road Sign Detection (YOLOv5)](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Road-Sign-Detection)**: Streamlit application running YOLOv5 on live feeds and video for traffic sign recognition.
+* **[CIFAR-100 Classification](https://github.com/mazqoty/CNN_CIFAR100)**: Deep Convolutional Neural Network trained for 100-class fine-grained object recognition.
 
 ---
 
 ## 📊 Data Analytics & BI
 
-* **[COVID-19 Global Analytics Dashboard](https://github.com/mm-mazhar/Dashbaord-Covid19-Django-Plotly_Dash)**: Interactive Django + Plotly Dash dashboard tracking global infections, recoveries, and vaccinations. ([GitHub](https://github.com/mm-mazhar/Dashbaord-Covid19-Django-Plotly_Dash))
-* **[Twitter / X Analytics Dashboard](https://github.com/mazqoty/Dashboard-Twitter-Analytics)**: Real-time Dash/Plotly app querying Twitter API for global trending topics and sentiment metrics. ([GitHub](https://github.com/mazqoty/Dashboard-Twitter-Analytics))
-* **[Pakistan E-Commerce Dataset EDA](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)**: Comprehensive exploratory data analysis of 500,000+ transaction records. ([GitHub](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset))
+* **[COVID-19 Global Analytics Dashboard](https://github.com/mm-mazhar/Dashbaord-Covid19-Django-Plotly_Dash)**: Interactive Django + Plotly Dash dashboard tracking global infections, recoveries, and vaccinations.
+* **[Twitter / X Analytics Dashboard](https://github.com/mazqoty/Dashboard-Twitter-Analytics)**: Real-time Dash/Plotly app querying Twitter API for global trending topics and sentiment metrics.
+* **[Pakistan E-Commerce Dataset EDA](https://github.com/mazqoty/Data-Analysis-and-Visualization-on-Ecommerce-Dataset)**: Comprehensive exploratory data analysis of 500,000+ transaction records.
 * **Power BI Analytics Reports**:
   * [Super Store Sales Analysis](https://github.com/mm-mazhar/PowerBI-Super-Store-Sales-Analysis)
   * [New York Property Sales Analysis](https://github.com/mm-mazhar/PowerBI-NY-Property-Sales-Analysis)
@@ -144,10 +133,8 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 ## 🌐 Web Development & Engineering
 
-* **[Personal Portfolio Website](https://github.com/mm-mazhar/django-portfolio-website)**: Full-stack Django portfolio application deployed on Render.  
-  🔗 [GitHub](https://github.com/mm-mazhar/django-portfolio-website) | [Live Website](https://mmazhar.onrender.com)
-* **[Data Warehousing & Star Schema (IBM Cognos / DB2)](https://github.com/mazqoty/Data_Warehousing)**: Dimensional data modeling, facts/dimension tables, and enterprise ETL shell scripts. ([GitHub](https://github.com/mazqoty/Data_Warehousing))
-* **[YOLOv5 Image Cropping Tool](https://github.com/mm-mazhar/cropping_images_using_yolov5)**: Streamlit app that detects, crops, and batches object bounding boxes automatically. ([GitHub](https://github.com/mm-mazhar/cropping_images_using_yolov5))
+* **[Data Warehousing & Star Schema (IBM Cognos / DB2)](https://github.com/mazqoty/Data_Warehousing)**: Dimensional data modeling, facts/dimension tables, and enterprise ETL shell scripts.
+* **[YOLOv5 Image Cropping Tool](https://github.com/mm-mazhar/cropping_images_using_yolov5)**: Streamlit app that detects, crops, and batches object bounding boxes automatically.
 
 
 <!---
