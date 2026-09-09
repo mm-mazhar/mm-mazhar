@@ -2,98 +2,106 @@
 
 ### 🚀 AI / Machine Learning Engineer
 
-> **Bridging Business Strategy & Technical Precision**  
-> Holds an **MBA** and a **B.S. in Electronics Engineering**. I specialize in building, optimizing, and scaling Generative AI applications, Retrieval-Augmented Generation (RAG) pipelines, and MLOps architectures that transform complex data into measurable business impact.
+<p align="justify">
+<strong>Bridging Business Strategy & Technical Precision:</strong> Holds an <strong>MBA</strong> and a <strong>B.S. in Electronics Engineering</strong>. I specialize in building, optimizing, and scaling Generative AI applications, Retrieval-Augmented Generation (RAG) pipelines, and MLOps architectures that transform complex data into measurable business impact.
+</p>
 
 ---
 
 ### 💡 Core Capabilities & Technical Expertise
 
 #### 🔹 LLMs & Orchestration
-Building automation applications using Large Language Models (**GPT models, Llama, Claude**) with orchestration frameworks like **LangChain** and **LlamaIndex**.
+<p align="justify">
+Building automation applications using Large Language Models (<strong>GPT models, Llama, Claude</strong>) with orchestration frameworks like <strong>LangChain</strong> and <strong>LlamaIndex</strong>.
+</p>
 
 #### 🔹 RAG & Vector Search
-Designing robust **Retrieval-Augmented Generation (RAG)** pipelines, model fine-tuning, and integrating vector databases (**Pinecone, Milvus, Chroma, Weaviate**).
+<p align="justify">
+Designing robust <strong>Retrieval-Augmented Generation (RAG)</strong> pipelines, model fine-tuning, and integrating vector databases (<strong>Pinecone, Milvus, Chroma, Weaviate</strong>).
+</p>
 
 #### 🔹 MLOps & Lifecycle Management
-Tracking experiments, managing model registries, and streamlining end-to-end ML lifecycles using **MLflow**.
+<p align="justify">
+Tracking experiments, managing model registries, and streamlining end-to-end ML lifecycles using <strong>MLflow</strong>.
+</p>
 
 #### 🔹 Containerization & API Development
-Writing clean, maintainable Python code, building RESTful microservices with **FastAPI** and **Flask**, and containerizing runtime environments using **Docker**.
+<p align="justify">
+Writing clean, maintainable Python code, building RESTful microservices with <strong>FastAPI</strong> and <strong>Flask</strong>, and containerizing runtime environments using <strong>Docker</strong>.
+</p>
 
 #### 🔹 Cloud & Solution Architecture
-Validating technical feasibility and deploying scalable AI workloads on **AWS, GCP, and Azure**—balancing budget constraints, latency, and technical complexity.
+<p align="justify">
+Validating technical feasibility and deploying scalable AI workloads on <strong>AWS, GCP, and Azure</strong>—balancing budget constraints, latency, and technical complexity.
+</p>
 
 ---
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-<hr>
+---
 
 ### 📩 Let's Connect!
 Open to opportunities in **AI / Machine Learning Engineering** and **Data Analytics**.
-- <a href="https://www.linkedin.com/in/m-mazhar-121133269/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="mazhar01" width="30" height="30" /></a> [@M. Mazhar](https://www.linkedin.com/in/mm-mazhar/)
+- 💼 **LinkedIn:** [@M. Mazhar](https://www.linkedin.com/in/mm-mazhar/)
 - 🌐 **Portfolio:** [mm-mazhar.github.io](https://mm-mazhar.github.io/mmazhar.github.io/)
-- 📧 <a href="mailto:email.mazhar.01@gmail.com" target="_blank" rel="noopener noreferrer" width="60" height="60">email me @</a>
+- 📧 **Email:** [email.mazhar.01@gmail.com](mailto:email.mazhar.01@gmail.com)
 
-<hr>
+---
 
 ## 🤖 Generative AI & LLMs
 
 * **[AutoVinScout | SaaS](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
-  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows. [Live App](https://auto-vin-scout.vercel.app/)
+  <p align="justify">Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows. • <a href="https://auto-vin-scout.vercel.app/" target="_blank">Live App</a></p>
 
 * **[End-to-End Supply Chain Document Processing](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)**  
-  Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
+  <p align="justify">Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • <a href="https://supplychaindocprocessingapp.onrender.com/" target="_blank">Live Demo</a></p>
 
 * **[Hybrid RAG & Document Intelligence](https://github.com/mm-mazhar/hybridRAG)**  
-  Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.
+  <p align="justify">Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.</p>
 
 * **[Fine-Tuning Gemma (VLM Pipeline)](https://github.com/mm-mazhar/FineTuneGemma)**  
-  Streamlined end-to-end pipeline for fine-tuning Google's Gemma Vision-Language Models with PEFT, LoRA, and QLoRA. • [Medium Series](https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18)
+  <p align="justify">Streamlined end-to-end pipeline for fine-tuning Google's Gemma Vision-Language Models with PEFT, LoRA, and QLoRA. • <a href="https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18" target="_blank">Medium Series</a></p>
 
 * **[Text to Speech (TTS) Pipeline](https://github.com/mm-mazhar/text_to_speech/tree/main)**  
-  Batch audio generation pipeline converting tabular/Excel text data into speech using Coqui TTS.
+  <p align="justify">Batch audio generation pipeline converting tabular/Excel text data into speech using Coqui TTS.</p>
 
 ---
 
 ## 📈 Machine Learning
 
 * **[Cognitive Health Prediction for Alzheimer's Disease](https://github.com/mm-mazhar/Hybrid-Unsupervised-Supervised-Learning-System-for-Alzheimer)**  
-  Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.
+  <p align="justify">Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.</p>
 
 * **[Soil Nutrient Prediction (Omdena × IPAGE)](https://github.com/mm-mazhar/IPAGE)**  
-  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) | [FastAPI - Live](https://ipage.onrender.com/)
+  <p align="justify">Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • <a href="https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations" target="_blank">Case Study</a> | <a href="https://ipage-app.streamlit.app/" target="_blank">Streamlit Demo</a> | <a href="https://ipage.onrender.com/" target="_blank">FastAPI - Live</a></p>
 
 * **[3D Roof Reconstruction for Solar PV (Omdena × IECO)](https://github.com/mm-mazhar/IECO)**  
-  PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
+  <p align="justify">PointNet-based point cloud segmentation (<code>PointNetSeg</code>) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • <a href="https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization" target="_blank">Case Study</a></p>
 
 * **[Urban Agriculture Area Identification (Milan, Italy)](https://github.com/maria-fisher/Urban-Agriculture-in-Milan)**  
-  Google Earth Engine (GEE) satellite data processing, Kriging spatial interpolation, and unsupervised clustering to find optimal urban farming zones. • [Kaggle Dataset](https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data)
+  <p align="justify">Google Earth Engine (GEE) satellite data processing, Kriging spatial interpolation, and unsupervised clustering to find optimal urban farming zones. • <a href="https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data" target="_blank">Kaggle Dataset</a></p>
 
 * **[End-to-End ML Pipeline & Deployment](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)**  
-  Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [FastAPI - Live API](https://deploying-ml-lasso-regression-model.onrender.com)
+  <p align="justify">Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • <a href="https://pypi.org/project/lasso-regression-model/" target="_blank">PyPI Package</a> | <a href="https://deploying-ml-lasso-regression-model.onrender.com" target="_blank">FastAPI - Live API</a></p>
 
 ---
 
@@ -122,9 +130,3 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 * **[Data Warehousing & Star Schema (IBM Cognos / DB2)](https://github.com/mazqoty/Data_Warehousing)**: Dimensional data modeling, facts/dimension tables, and enterprise ETL shell scripts.
 * **[YOLOv5 Image Cropping Tool](https://github.com/mm-mazhar/cropping_images_using_yolov5)**: Streamlit app that detects, crops, and batches object bounding boxes automatically.
-
-
-<!---
-mazqoty/mazqoty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
