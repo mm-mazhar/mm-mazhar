@@ -61,8 +61,8 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 ## 🤖 Generative AI & LLMs
 
-* **[AutoVinScout App Demo](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
-  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.[Live App](https://auto-vin-scout.vercel.app/)
+* **[AutoVinScout | SaaS](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
+  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows. [Live App](https://auto-vin-scout.vercel.app/)
 
 * **[End-to-End Supply Chain Document Processing](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)**  
   Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
