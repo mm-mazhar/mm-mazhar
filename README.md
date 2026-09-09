@@ -61,11 +61,11 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 ## 🤖 Generative AI & LLMs
 
+* **[AutoVinScout App Demo](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
+  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.[Live App](https://auto-vin-scout.vercel.app/)
+
 * **[End-to-End Supply Chain Document Processing](https://github.com/mm-mazhar/SupplyChainDocProcessingApp)**  
   Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
-
-* **[AutoVinScout App Demo](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
-  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.{Live App](https://auto-vin-scout.vercel.app/)
 
 * **[Hybrid RAG & Document Intelligence](https://github.com/mm-mazhar/hybridRAG)**  
   Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.
@@ -94,16 +94,6 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
 
 * **[End-to-End ML Pipeline & Deployment](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)**  
   Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [Live API](https://deploying-ml-lasso-regression-model.onrender.com)
-
----
-
-## 👁️ Deep Learning & Computer Vision
-
-* **[Malaria Cell Detection](https://github.com/mazqoty/malaria_detection)**: CNN image classifier detecting infected vs. uninfected blood smear cells.
-* **[Automatic Number Plate Recognition (ANPR)](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR)**: Real-time license plate detection and OCR using YOLO / TensorFlow and EasyOCR.
-* **[Face Mask Detection](https://github.com/mazqoty/Face-Mask-Detection)**: CNN/ResMLP-based system classifying correct, incorrect, or absent mask-wearing in real time.
-* **[Road Sign Detection (YOLOv5)](https://github.com/mazqoty/Yolo-v5-Streamlit-App-Road-Sign-Detection)**: Streamlit application running YOLOv5 on live feeds and video for traffic sign recognition.
-* **[CIFAR-100 Classification](https://github.com/mazqoty/CNN_CIFAR100)**: Deep Convolutional Neural Network trained for 100-class fine-grained object recognition.
 
 ---
 
