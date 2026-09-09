@@ -84,7 +84,7 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
   Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.
 
 * **[Soil Nutrient Prediction (Omdena × IPAGE)](https://github.com/mm-mazhar/IPAGE)**  
-  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) | [FastAPI](https://ipage.onrender.com/)
+  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) | [FastAPI - Live](https://ipage.onrender.com/)
 
 * **[3D Roof Reconstruction for Solar PV (Omdena × IECO)](https://github.com/mm-mazhar/IECO)**  
   PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
@@ -93,7 +93,7 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
   Google Earth Engine (GEE) satellite data processing, Kriging spatial interpolation, and unsupervised clustering to find optimal urban farming zones. • [Kaggle Dataset](https://www.kaggle.com/datasets/mazhar01/identify-potential-areas-for-urban-agriculture/data)
 
 * **[End-to-End ML Pipeline & Deployment](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model-Render)**  
-  Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [Live API](https://deploying-ml-lasso-regression-model.onrender.com)
+  Scraped real estate data pipeline featuring automated feature engineering, PyPI package publishing, Pytest testing, CI/CD, and a FastAPI deployment. • [PyPI Package](https://pypi.org/project/lasso-regression-model/) | [FastAPI - Live API](https://deploying-ml-lasso-regression-model.onrender.com)
 
 ---
 
