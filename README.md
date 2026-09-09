@@ -65,16 +65,13 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
   Converts unstructured supply chain PDFs and scanned documents into structured MongoDB Atlas data using PaddleOCR, PDFPlumber, and Google Gemini / OpenRouter. • [Live Demo](https://supplychaindocprocessingapp.onrender.com/)
 
 * **[AutoVinScout App Demo](https://github.com/mm-mazhar/AutoVinScout-AppDemo)**  
-  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.
+  Computer vision and AI-powered application for automated vehicle identification and VIN recognition/decoding workflows.{Live App](https://auto-vin-scout.vercel.app/)
 
 * **[Hybrid RAG & Document Intelligence](https://github.com/mm-mazhar/hybridRAG)**  
   Streamlit-based question-answering system using Hybrid Retrieval-Augmented Generation (RAG) and web crawling for context-aware document queries.
 
 * **[Fine-Tuning Gemma (VLM Pipeline)](https://github.com/mm-mazhar/FineTuneGemma)**  
   Streamlined end-to-end pipeline for fine-tuning Google's Gemma Vision-Language Models with PEFT, LoRA, and QLoRA. • [Medium Series](https://medium.com/@mazqoty.01/fine-tuning-gemma-with-reusable-pipeline-peft-explained-part-1-6f49615f1d18)
-
-* **[Abstract Summarizer](https://github.com/mm-mazhar/abstract_summarizer)**  
-  Interactive text summarization tool powered by Hugging Face's `google/pegasus-xsum` model and Streamlit.
 
 * **[Text to Speech (TTS) Pipeline](https://github.com/mm-mazhar/text_to_speech/tree/main)**  
   Batch audio generation pipeline converting tabular/Excel text data into speech using Coqui TTS.
@@ -87,7 +84,7 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
   Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.
 
 * **[Soil Nutrient Prediction (Omdena × IPAGE)](https://github.com/mm-mazhar/IPAGE)**  
-  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/)
+  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) [FastAPI](https://ipage.onrender.com/)
 
 * **[3D Roof Reconstruction for Solar PV (Omdena × IECO)](https://github.com/mm-mazhar/IECO)**  
   PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
