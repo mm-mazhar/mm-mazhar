@@ -84,7 +84,7 @@ Open to opportunities in **AI / Machine Learning Engineering** and **Data Analyt
   Hybrid ML system using K-Means clustering to discover patient phenotypes, adaptive routing to tailored regression models, and SHAP explainability.
 
 * **[Soil Nutrient Prediction (Omdena × IPAGE)](https://github.com/mm-mazhar/IPAGE)**  
-  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) [FastAPI](https://ipage.onrender.com/)
+  Predictive models for soil micronutrients (Boron, Zinc, SOC) for precision agriculture with MLflow tracking, FastAPI, and Streamlit. • [Case Study](https://www.omdena.com/projects/soil-nutrient-prediction-for-enhanced-fertilizer-recommendations) | [Streamlit Demo](https://ipage-app.streamlit.app/) | [FastAPI](https://ipage.onrender.com/)
 
 * **[3D Roof Reconstruction for Solar PV (Omdena × IECO)](https://github.com/mm-mazhar/IECO)**  
   PointNet-based point cloud segmentation (`PointNetSeg`) on LiDAR and aerial imagery to automate 3D roof modeling for solar installations. • [Case Study](https://www.omdena.com/projects/3d-roof-reconstruction-with-computer-vision-for-solar-energy-optimization)
