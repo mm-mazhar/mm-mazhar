@@ -17,7 +17,7 @@ Building automation applications using Large Language Models (<strong>GPT models
 
 #### 🔹 RAG & Vector Search
 <p align="justify">
-Designing robust <strong>Retrieval-Augmented Generation (RAG)</strong> pipelines, model fine-tuning, and integrating vector databases (<strong>Pinecone, Milvus, Chroma, Weaviate</strong>).
+Designing robust <strong>Retrieval-Augmented Generation (RAG)</strong> pipelines, model fine-tuning, and integrating vector databases.
 </p>
 
 #### 🔹 MLOps & Lifecycle Management
@@ -32,7 +32,7 @@ Writing clean, maintainable Python code, building RESTful microservices with <st
 
 #### 🔹 Cloud & Solution Architecture
 <p align="justify">
-Validating technical feasibility and deploying scalable AI workloads on <strong>AWS, GCP, and Azure</strong>—balancing budget constraints, latency, and technical complexity.
+Validating technical feasibility and deploying scalable AI workloads on <strong>AWS, Azure</strong>—balancing budget constraints, latency, and technical complexity.
 </p>
 
 ---
