@@ -32,7 +32,7 @@ Writing clean, maintainable Python code, building RESTful microservices with <st
 
 #### 🔹 Cloud & Solution Architecture
 <p align="justify">
-Validating technical feasibility and deploying scalable AI workloads on <strong>AWS, Azure</strong>—balancing budget constraints, latency, and technical complexity.
+Validating technical feasibility and deploying scalable AI workloads on <strong>AWS or Azure</strong>—balancing budget constraints, latency, and technical complexity.
 </p>
 
 ---
